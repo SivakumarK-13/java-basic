@@ -1,0 +1,18 @@
+public class learn {
+
+	public static void main(String[] args) {
+
+		 System.out.println("hello"); 
+int a = 6, b = 5; 
+int x = a + b; int y = a - b;
+		  int z = a * b; 
+double z1 = (double) a / b;
+int x1 = a % b;
+		  
+		  System.out.println(x); 
+      System.out.println(y); 
+      System.out.println(z);
+		  System.out.println(z1); 
+      System.out.println(x1);
+)
+)
